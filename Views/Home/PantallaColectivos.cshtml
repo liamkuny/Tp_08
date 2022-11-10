@@ -1,0 +1,25 @@
+@foreach (Colectivos c in ViewBag.Colectivos)
+{
+  
+  <div class="CentrarCards"> 
+  <div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="@c.Foto" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">COLECTIVO @c.NumeroColectivo</h5>
+    <p class="card-text">@c.InfoTransportes</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Numero Colectivo: @c.NumeroColectivo</li>
+    <li class="list-group-item">Recorrido:  @c.Recorrido</li>
+  </ul>
+  <div class="card-body">
+    <a type="button" class="btn btn-danger" href='@Url.Action("EliminarColectivo", new {IdTransportes=@c.IdTransportes} )'>
+                Eliminar
+            </a>
+  </div>
+</div>
+</div>
+}
+<div class="BotonAbajo">
+<a href='@Url.Action("AgregarColectivo", "Home")' class="btn btn-primary">Agregar Colectivo</a>
+</div>

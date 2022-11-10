@@ -1,0 +1,10 @@
+
+<form  action='@Url.Action("GuardarColectivo", "Home")' method="post" enctype="multipart/form-data">
+
+<p class="letraForm">Numero colectivo --> <input class="letraForm" type="text" name ="NumeroColectivo"> </p>
+<p class="letraForm">Foto --> <input class="letraForm" type="Myfile" name="Foto" ></p>
+<p class="letraForm">Recorrido --> <input  class="letraForm" type="text" name ="Recorrido"></p>
+<p class="letraForm">Info --> <input class="letraForm" type="text" name ="InfoTransportes"></p>
+<input class="letraForm" type="submit" value="Guardar">
+</form>
+<a class="ag" href='@Url.Action("Colectivos", "Home")' class="btn btn-primary">Volver a los colectivos</a>

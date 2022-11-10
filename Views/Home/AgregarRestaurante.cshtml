@@ -1,0 +1,11 @@
+
+<form  action='@Url.Action("GuardarRestaurante", "Home", new {IdCategoria = @ViewBag.IdCategoria})' method="post" enctype="multipart/form-data">
+<input type="hidden" name="IdCategoria" value="@ViewBag.IdCategoria">
+<p class="letraForm">Nombre --> <input  class="letraForm" type="text" name ="Nombre" required></p>
+<p class="letraForm">Foto --> <input class="letraForm" type="Myfile" name="Foto" required></p>
+<p class="letraForm">Barrio --> <input  class="letraForm" type="text" name ="Barrio" required></p>
+<p class="letraForm">Fecha de fundacion --> <input class="letraForm" type="date" name ="FechaFundacion" required></p>
+<p class="letraForm">Info --> <input class="letraForm" type="text" name ="InfoLugar" required></p>
+<input class="letraForm" type="submit" value="Guardar">
+</form>
+<a class="ag" href='@Url.Action("Restaurantes", "Home")' class="btn btn-primary">Volver a los restaurantes</a>

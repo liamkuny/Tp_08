@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TPBSAS
+build_property.RootNamespace = TPBSAS
+build_property.ProjectDir = F:\Musica\Musicaa\Musica\TPBSAS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Musica\Musicaa\Musica\TPBSAS
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/AgregarCitiosTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyQ2l0aW9zVG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/AgregarColectivo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyQ29sZWN0aXZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/AgregarMonumento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyTW9udW1lbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/AgregarRestaurante.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyUmVzdGF1cmFudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/AgregarSitiosTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyU2l0aW9zVG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/PantallaCitiosTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYW50YWxsYUNpdGlvc1RvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/PantallaColectivos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYW50YWxsYUNvbGVjdGl2b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/PantallaLugares.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYW50YWxsYUx1Z2FyZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/PantallaMonumentos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYW50YWxsYU1vbnVtZW50b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/PantallaRestaurantes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYW50YWxsYVJlc3RhdXJhbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Home/PantallaSitiosTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYW50YWxsYVNpdGlvc1RvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Musica/Musicaa/Musica/TPBSAS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rywksxrnvc

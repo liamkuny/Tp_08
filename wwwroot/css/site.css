@@ -1,0 +1,80 @@
+html {
+
+  font-size: 14px;
+}
+
+@media (min-width: 450px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 40px;
+}
+
+.boton1{
+  
+  position: absolute;
+  left: 30%;
+  top: 98%;
+}
+
+.boton2{
+  
+  position: absolute;
+  left: 55%;
+  top: 98%;
+}
+
+.card-img-top
+{
+  width: 18rem;
+  height: 150px;
+}
+.CentrarCards
+{
+  display: flex;
+  float: left;
+  margin-left: 15px;
+  
+}
+
+.BotonAbajo
+{
+  position: absolute;
+  left: 135px;
+  top: 680px;
+  margin-top: 30px;
+}
+
+.card
+{
+  height: 620px;
+}
+
+.card-text
+{
+  font-size: 11px;
+}
+
+.UbicarBotones
+{
+  position: absolute;
+  left: 415px;
+  margin-top: 20px;
+  
+}
+
+.UbicarBotones2
+{
+  position: absolute;
+  left: 415px;
+  margin-top: 40px;
+  
+}

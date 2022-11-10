@@ -1,0 +1,25 @@
+@foreach (Restaurante c in ViewBag.Restaurante)
+{
+  
+  <div class="CentrarCards"> 
+  <div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="@c.Foto" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">@c.Nombre</h5>
+    <p class="card-text">@c.InfoLugar</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Barrio: @c.Barrio</li>
+    <li class="list-group-item">Fecha de fundacion:  @c.FechaFundacion.ToShortDateString()</li>
+  </ul>
+  <div class="card-body">
+    <a type="button" class="btn btn-danger" href='@Url.Action("EliminarRestaurante", new {IdRestaurante = c.IdRestaurante} )'>
+                Eliminar
+            </a>
+  </div>
+</div>
+</div>
+}
+<div class="BotonAbajo">
+<a href='@Url.Action("AgregarRestaurante", "Home", new {IdCategoria = @ViewBag.IdCategoria})' class="btn btn-primary">Agregar restaurante</a>
+</div>
